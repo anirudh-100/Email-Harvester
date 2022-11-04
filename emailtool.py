@@ -1,3 +1,10 @@
+#install BeautifulSoup
+#install requests
+#install lxml
+#install parser library
+#This tool is basically for pluging the emails from given URL as input
+
+
 from bs4 import BeautifulSoup
 import requests
 import requests.exceptions
